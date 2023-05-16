@@ -31,6 +31,6 @@ Pod::Spec.new do |spec|
 
   spec.dependency 'CloudpaymentsNetworking'  
   spec.dependency 'YandexLoginSDK'
-  spec.dependency 'YandexPaySDK/Static', "1.2.0"
+  spec.dependency 'YandexPaySDK/Dynamic', "1.2.0"
 
 end
